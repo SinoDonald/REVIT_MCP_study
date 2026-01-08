@@ -24,7 +24,7 @@ namespace RevitMCP.Commands
                         "1. 按 Win + Pause\n" +
                         "2. 進階系統設定\n" +
                         "3. 環境變數\n" +
-                        "4. 新增：GEMINI_API_KEY = AIzaSyCJniuuHoAYlQAusVWuKCzZyJdWWoXgemE");
+                        "4. 新增：GEMINI_API_KEY = AIzaSyCc_XOx4t_EzSmSsJDyc_p5UxMHzzF1eQg");
                     return Result.Failed;
                 }
 
